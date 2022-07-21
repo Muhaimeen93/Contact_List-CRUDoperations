@@ -78,6 +78,7 @@ export default function ContactList() {
               >
                 Contact List
               </DialogTitle>
+              <Typography fontSize="10px">(Click on rows to edit or delete)</Typography>
             </Stack>
             <DataGrid
 
